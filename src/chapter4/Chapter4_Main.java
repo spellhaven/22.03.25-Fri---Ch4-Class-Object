@@ -23,7 +23,6 @@ public class Chapter4_Main {
 			book_array[i] = new Book(title, author);
 		}
 		
-		
 		// 그냥 제대로 됐는지 3권을 샘플로 함 출력해 봤다 ㅋ
 		// 참고로 "3권"은 4번째 책이야. 왠지알지? 배열 인덱스는 0부터 시작하기 때문에... 잊지않았지? 그렇지?
 		String author3 = book_array[3].author;
